@@ -1,0 +1,15 @@
+actual_disk_r: 500
+arm_inner_frac: 0.05
+arm_n: 1
+arm_outer_frac: 0.05
+arm_pitch_ratio: 1.2
+arm_thetas:
+- 0
+- 90
+- 180
+- 270
+arm_thick_frac: 0.05
+arm_w_frac: 0.3
+disk_r: 500
+inner_arc_frac: 0.25
+ped_arc_frac: 0.1
